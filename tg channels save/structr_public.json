@@ -1,0 +1,1808 @@
+{
+ "name": "Твои любимые концерты 🇷🇺",
+ "type": "public_channel",
+ "id": 2339746611,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2025-01-30T11:25:56",
+   "date_unixtime": "1738225556",
+   "actor": "Твои любимые концерты 🇷🇺",
+   "actor_id": "channel2339746611",
+   "action": "create_channel",
+   "title": "STRCTR / Реклама и организация концертов",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2025-08-13T22:29:36",
+   "date_unixtime": "1755113376",
+   "edited": "2025-08-13T23:02:30",
+   "edited_unixtime": "1755115350",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 393362,
+   "width": 1500,
+   "height": 1500,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "https://84tour.ru",
+     "href": "https://84tour.ru/"
+    },
+    "\n\n❤️ – точно придёшь\n🔥 – уже забронировал билет"
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "https://84tour.ru",
+     "href": "https://84tour.ru/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n❤️ – точно придёшь\n🔥 – уже забронировал билет"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1427,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 1008,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 68,
+      "emoji": "🥰"
+     },
+     {
+      "type": "emoji",
+      "count": 19,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 8,
+      "emoji": "👎"
+     },
+     {
+      "type": "emoji",
+      "count": 5,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2025-08-16T16:17:37",
+   "date_unixtime": "1755350257",
+   "edited": "2025-08-16T16:17:47",
+   "edited_unixtime": "1755350267",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 311991,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/taras"
+    },
+    "\n\n❤️ – точно придёшь\n🔥 – уже забронировал билет"
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/taras"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n❤️ – точно придёшь\n🔥 – уже забронировал билет"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 187,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 115,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 76,
+      "emoji": "👎"
+     },
+     {
+      "type": "emoji",
+      "count": 14,
+      "emoji": "🥰"
+     },
+     {
+      "type": "emoji",
+      "count": 12,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2025-08-19T10:13:50",
+   "date_unixtime": "1755587630",
+   "edited": "2025-08-28T23:31:00",
+   "edited_unixtime": "1756413060",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 117511,
+   "width": 1080,
+   "height": 1080,
+   "text": [
+    "Разыгрываем 5 билетов на концерт Честного в любом городе тура! \n\nПодробности: ",
+    {
+     "type": "mention",
+     "text": "@chestnyiofficial_bot"
+    },
+    "\n\nРезультаты опубликуем вечером 25 августа по московскому времени и отправим информацию всем участникам в бот. Желаем удачи!\n\n",
+    {
+     "type": "bold",
+     "text": "UPD: По одному билету в танцпол получают:"
+    },
+    "\n\n1. ",
+    {
+     "type": "mention",
+     "text": "@AnnaCond"
+    },
+    "***\n2. ",
+    {
+     "type": "mention",
+     "text": "@Mutnay"
+    },
+    "***\n3. @Nab***\n4. ",
+    {
+     "type": "mention",
+     "text": "@Ilya_V_ladimirov"
+    },
+    "***\n5. ",
+    {
+     "type": "mention",
+     "text": "@Lalla"
+    },
+    "***\n\nМы свяжемся с победителями через бота и пришлём приз. Спасибо всем за участие!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Разыгрываем 5 билетов на концерт Честного в любом городе тура! \n\nПодробности: "
+    },
+    {
+     "type": "mention",
+     "text": "@chestnyiofficial_bot"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nРезультаты опубликуем вечером 25 августа по московскому времени и отправим информацию всем участникам в бот. Желаем удачи!\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "UPD: По одному билету в танцпол получают:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n1. "
+    },
+    {
+     "type": "mention",
+     "text": "@AnnaCond"
+    },
+    {
+     "type": "plain",
+     "text": "***\n2. "
+    },
+    {
+     "type": "mention",
+     "text": "@Mutnay"
+    },
+    {
+     "type": "plain",
+     "text": "***\n3. @Nab***\n4. "
+    },
+    {
+     "type": "mention",
+     "text": "@Ilya_V_ladimirov"
+    },
+    {
+     "type": "plain",
+     "text": "***\n5. "
+    },
+    {
+     "type": "mention",
+     "text": "@Lalla"
+    },
+    {
+     "type": "plain",
+     "text": "***\n\nМы свяжемся с победителями через бота и пришлём приз. Спасибо всем за участие!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 211,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 134,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 53,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 16,
+      "emoji": "🥰"
+     },
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2025-08-26T14:21:50",
+   "date_unixtime": "1756207310",
+   "edited": "2025-08-28T23:31:08",
+   "edited_unixtime": "1756413068",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 215400,
+   "width": 960,
+   "height": 1280,
+   "text": [
+    "Разыгрываем 3 билета на концерт Гарика Погорелова в любом городе тура! \n\nПодробности: ",
+    {
+     "type": "mention",
+     "text": "@gariktour_bot"
+    },
+    "\n\nРезультаты опубликуем вечером 28 августа по московскому времени и отправим информацию всем участникам в бот. Желаем удачи!\n\n",
+    {
+     "type": "bold",
+     "text": "UPD: По одному билету в танцпол получают:"
+    },
+    "\n1. ",
+    {
+     "type": "mention",
+     "text": "@Anna098"
+    },
+    "****\n2. ",
+    {
+     "type": "mention",
+     "text": "@Mariiar"
+    },
+    "****\n3. @red****\n\nМы свяжемся с победителями через бота и пришлём приз. Спасибо всем за участие!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Разыгрываем 3 билета на концерт Гарика Погорелова в любом городе тура! \n\nПодробности: "
+    },
+    {
+     "type": "mention",
+     "text": "@gariktour_bot"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nРезультаты опубликуем вечером 28 августа по московскому времени и отправим информацию всем участникам в бот. Желаем удачи!\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "UPD: По одному билету в танцпол получают:"
+    },
+    {
+     "type": "plain",
+     "text": "\n1. "
+    },
+    {
+     "type": "mention",
+     "text": "@Anna098"
+    },
+    {
+     "type": "plain",
+     "text": "****\n2. "
+    },
+    {
+     "type": "mention",
+     "text": "@Mariiar"
+    },
+    {
+     "type": "plain",
+     "text": "****\n3. @red****\n\nМы свяжемся с победителями через бота и пришлём приз. Спасибо всем за участие!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 45,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 12,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "👏"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2025-08-27T18:08:31",
+   "date_unixtime": "1756307311",
+   "edited": "2025-09-01T22:44:41",
+   "edited_unixtime": "1756755881",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 304494,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Разыгрываем 3 билета на любой концерт тура 84 через Тикток\n\n",
+    {
+     "type": "bold",
+     "text": "Правила:"
+    },
+    "\n1. Используй звук «Классная» ",
+    {
+     "type": "text_link",
+     "text": "https://vt.tiktok.com/ZSHGwksfEewtC-N7DMg/",
+     "href": "https://vt.tiktok.com/ZSHGwksfEewtC-N7DMg/"
+    },
+    "\n2. Выложи тикток обязательно с афишей и хэштегом ",
+    {
+     "type": "hashtag",
+     "text": "#84тур"
+    },
+    " \n\nВечером 1 сентября мы выберем 3 тиктока и подарим по 1 билету на концерт. Выбираем по креативности и популярности.\n\nРезультаты опубликуем в ",
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Победители:"
+    },
+    "\nnastyusha22.02\nvyacheslavovna672\nmirmiladka2\n\nЧтобы получить приз, свяжитесь с Димой dmitry.lapin735 в тиктоке\n\nСпасибо всем за участие ",
+    {
+     "type": "custom_emoji",
+     "text": "🖤",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Разыгрываем 3 билета на любой концерт тура 84 через Тикток\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Правила:"
+    },
+    {
+     "type": "plain",
+     "text": "\n1. Используй звук «Классная» "
+    },
+    {
+     "type": "text_link",
+     "text": "https://vt.tiktok.com/ZSHGwksfEewtC-N7DMg/",
+     "href": "https://vt.tiktok.com/ZSHGwksfEewtC-N7DMg/"
+    },
+    {
+     "type": "plain",
+     "text": "\n2. Выложи тикток обязательно с афишей и хэштегом "
+    },
+    {
+     "type": "hashtag",
+     "text": "#84тур"
+    },
+    {
+     "type": "plain",
+     "text": " \n\nВечером 1 сентября мы выберем 3 тиктока и подарим по 1 билету на концерт. Выбираем по креативности и популярности.\n\nРезультаты опубликуем в "
+    },
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Победители:"
+    },
+    {
+     "type": "plain",
+     "text": "\nnastyusha22.02\nvyacheslavovna672\nmirmiladka2\n\nЧтобы получить приз, свяжитесь с Димой dmitry.lapin735 в тиктоке\n\nСпасибо всем за участие "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🖤",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 75,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 69,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 23,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 8,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2025-09-11T16:57:05",
+   "date_unixtime": "1757599025",
+   "edited": "2025-09-11T16:59:25",
+   "edited_unixtime": "1757599165",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 218416,
+   "width": 853,
+   "height": 1280,
+   "text": [
+    "А вот и фотки с первых концертов осеннего тура, ищите себя!\n\nМурманск: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-232616090_308460422"
+    },
+    "\nАрхангельск: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-232615807_307340810"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А вот и фотки с первых концертов осеннего тура, ищите себя!\n\nМурманск: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-232616090_308460422"
+    },
+    {
+     "type": "plain",
+     "text": "\nАрхангельск: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-232615807_307340810"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 60,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 20,
+      "emoji": "🥰"
+     },
+     {
+      "type": "emoji",
+      "count": 15,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 3,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 2,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2025-09-12T22:00:29",
+   "date_unixtime": "1757703629",
+   "edited": "2025-09-12T22:00:49",
+   "edited_unixtime": "1757703649",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 187813,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Scirena 🔥\nБольшие сольные концерты\n\n30 ноября — Москва — Base\n4 декабря — Санкт-Петербург — Sound \n\nБилеты: ",
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/scirena"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Scirena 🔥\nБольшие сольные концерты\n\n30 ноября — Москва — Base\n4 декабря — Санкт-Петербург — Sound \n\nБилеты: "
+    },
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/scirena"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 55,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 21,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 16,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2025-09-15T20:08:40",
+   "date_unixtime": "1757956120",
+   "edited": "2025-09-15T20:11:51",
+   "edited_unixtime": "1757956311",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 158308,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Большие концерты METAN 😈\n\nШнурки, Нет страха, Андеграунд и другие хиты 💪\n\nБилеты: ",
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/metan"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Большие концерты METAN 😈\n\nШнурки, Нет страха, Андеграунд и другие хиты 💪\n\nБилеты: "
+    },
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/metan"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 57,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2025-09-16T20:09:30",
+   "date_unixtime": "1758042570",
+   "edited": "2025-09-16T20:10:04",
+   "edited_unixtime": "1758042604",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 182916,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Большие концерты Вектор А 🥷 \n\nБилеты: ",
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/vektor-a"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Большие концерты Вектор А 🥷 \n\nБилеты: "
+    },
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/vektor-a"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 51,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 34,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 10,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2025-09-19T11:16:17",
+   "date_unixtime": "1758269777",
+   "edited": "2025-09-19T11:16:31",
+   "edited_unixtime": "1758269791",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 107956,
+   "width": 1280,
+   "height": 853,
+   "text": [
+    "Раскачиваем тур вместе с вами!\nВыздоравливаем и едем дальше, не болейте!\n\nФотки с Вологды ловите: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-232767056_310118397"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Раскачиваем тур вместе с вами!\nВыздоравливаем и едем дальше, не болейте!\n\nФотки с Вологды ловите: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-232767056_310118397"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 59,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 24,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 16,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2025-09-25T18:56:36",
+   "date_unixtime": "1758815796",
+   "edited": "2025-09-25T18:56:43",
+   "edited_unixtime": "1758815803",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 551278,
+   "width": 2560,
+   "height": 2560,
+   "text": [
+    "Разыгрываем 3 билета на концерты Честного!\n\nДля участия, нужно оставить комментарий с городом под видео ",
+    {
+     "type": "link",
+     "text": "https://vt.tiktok.com/ZSDqNMUEn/"
+    },
+    "\n\nРезультаты опубликуем ",
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    " 29 сентября!\n\nЖелаем удачи!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Разыгрываем 3 билета на концерты Честного!\n\nДля участия, нужно оставить комментарий с городом под видео "
+    },
+    {
+     "type": "link",
+     "text": "https://vt.tiktok.com/ZSDqNMUEn/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nРезультаты опубликуем "
+    },
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    {
+     "type": "plain",
+     "text": " 29 сентября!\n\nЖелаем удачи!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 101,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 40,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 32,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 11,
+      "emoji": "🥰"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2025-10-01T12:17:09",
+   "date_unixtime": "1759310229",
+   "edited": "2025-10-01T12:17:50",
+   "edited_unixtime": "1759310270",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "text": [
+    "🔥 Итоги розыгрышей 🔥\n\nПо 1 билету в Танцпол на концерт Честного получают:\nokthhx****\nzhanna_****\nmilanka4****\n\n👉 Подробнее о концертах: ",
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/chestnyi"
+    },
+    "\n\nПо 1 билету в Танцпол на концерт 84 получают:\nanastasia_****\npolll****\nangelinn****\n\n👉 Подробнее о концертах: ",
+    {
+     "type": "link",
+     "text": "https://84tour.ru/"
+    },
+    "\n\nПо 1 билету в Танцпол на концерт Гарика Погорелова получают:\nkatrinatupi****\ndanale****\ngg_shadowa****\n\n👉 Подробнее о концертах: ",
+    {
+     "type": "link",
+     "text": "https://gariktour.ru/"
+    },
+    "\n\n‼️ С вами свяжется dmitry.lapin735 в ТикТоке, чтобы уточнить детали и выдать приз\n\nЖдём всех на концертах!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🔥 Итоги розыгрышей 🔥\n\nПо 1 билету в Танцпол на концерт Честного получают:\nokthhx****\nzhanna_****\nmilanka4****\n\n👉 Подробнее о концертах: "
+    },
+    {
+     "type": "link",
+     "text": "https://gsnd.ru/chestnyi"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nПо 1 билету в Танцпол на концерт 84 получают:\nanastasia_****\npolll****\nangelinn****\n\n👉 Подробнее о концертах: "
+    },
+    {
+     "type": "link",
+     "text": "https://84tour.ru/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nПо 1 билету в Танцпол на концерт Гарика Погорелова получают:\nkatrinatupi****\ndanale****\ngg_shadowa****\n\n👉 Подробнее о концертах: "
+    },
+    {
+     "type": "link",
+     "text": "https://gariktour.ru/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n‼️ С вами свяжется dmitry.lapin735 в ТикТоке, чтобы уточнить детали и выдать приз\n\nЖдём всех на концертах!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 37,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2025-10-02T12:59:58",
+   "date_unixtime": "1759399198",
+   "edited": "2025-10-04T13:24:36",
+   "edited_unixtime": "1759573476",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 107710,
+   "width": 1280,
+   "height": 853,
+   "text": [
+    "Новые фотографии с концертов 84\n\nВыкладываем по готовности:\nКиров: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233039082_308640335"
+    },
+    "\nПермь: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233039215_308709029"
+    },
+    "\nНижневартовск: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233039384_307123069"
+    },
+    "\nПсков: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233053547_307596008"
+    },
+    "\nТюмень: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233057619_309061698"
+    },
+    "\nВеликий Новгород: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233090603_311283822"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Новые фотографии с концертов 84\n\nВыкладываем по готовности:\nКиров: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233039082_308640335"
+    },
+    {
+     "type": "plain",
+     "text": "\nПермь: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233039215_308709029"
+    },
+    {
+     "type": "plain",
+     "text": "\nНижневартовск: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233039384_307123069"
+    },
+    {
+     "type": "plain",
+     "text": "\nПсков: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233053547_307596008"
+    },
+    {
+     "type": "plain",
+     "text": "\nТюмень: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233057619_309061698"
+    },
+    {
+     "type": "plain",
+     "text": "\nВеликий Новгород: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233090603_311283822"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 45,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 3,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2025-10-16T20:49:55",
+   "date_unixtime": "1760636995",
+   "edited": "2025-10-23T20:26:06",
+   "edited_unixtime": "1761240366",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 96817,
+   "width": 851,
+   "height": 1280,
+   "text": [
+    "Новые фотографии с концертов 84\n\nВыкладываем по готовности\nБрянск: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233331312_308804849"
+    },
+    "\nЕкатеринбург: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233174838_308892268"
+    },
+    "\nЧелябинск: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233173266_310347070"
+    },
+    "\nТамбов: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233427086_310479725"
+    },
+    "\nКурган: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233174461_308996356"
+    },
+    "\nСаратов: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233434804_307341337"
+    },
+    "\nРязань: ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233465695_308949698"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Новые фотографии с концертов 84\n\nВыкладываем по готовности\nБрянск: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233331312_308804849"
+    },
+    {
+     "type": "plain",
+     "text": "\nЕкатеринбург: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233174838_308892268"
+    },
+    {
+     "type": "plain",
+     "text": "\nЧелябинск: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233173266_310347070"
+    },
+    {
+     "type": "plain",
+     "text": "\nТамбов: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233427086_310479725"
+    },
+    {
+     "type": "plain",
+     "text": "\nКурган: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233174461_308996356"
+    },
+    {
+     "type": "plain",
+     "text": "\nСаратов: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233434804_307341337"
+    },
+    {
+     "type": "plain",
+     "text": "\nРязань: "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-233465695_308949698"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 51,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 22,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 13,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2025-11-28T12:00:59",
+   "date_unixtime": "1764320459",
+   "edited": "2025-11-28T12:07:07",
+   "edited_unixtime": "1764320827",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 138301,
+   "width": 1280,
+   "height": 853,
+   "text": [
+    "Фото с концертов Вектор А\nВыкладываем по готовности:\n\nНовосибирск — ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-204047938_309417169"
+    },
+    "\nМосква — ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-204047938_309417150"
+    },
+    "\nЕкатеринбург — ",
+    {
+     "type": "link",
+     "text": "https://vk.com/album-204047938_309417135"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Фото с концертов Вектор А\nВыкладываем по готовности:\n\nНовосибирск — "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-204047938_309417169"
+    },
+    {
+     "type": "plain",
+     "text": "\nМосква — "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-204047938_309417150"
+    },
+    {
+     "type": "plain",
+     "text": "\nЕкатеринбург — "
+    },
+    {
+     "type": "link",
+     "text": "https://vk.com/album-204047938_309417135"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 24,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 8,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "👍"
+     }
+    ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2026-02-03T17:30:12",
+   "date_unixtime": "1770129012",
+   "edited": "2026-02-03T17:36:47",
+   "edited_unixtime": "1770129407",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 210472,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Анонсируем долгожданные концерты Восемьдесят Четвёртого.\n\nБилеты в продаже – ",
+    {
+     "type": "link",
+     "text": "https://84tour.ru"
+    },
+    "\n\nМосква – 14 февраля – Клуб Свобода (Малый зал)\nСанкт-Петербург – 15 февраля – Клуб Project\n\nЮжно-Сахалинск* – 6 февраля –  Sova \nВоронеж* – 13 февраля –  Клуб 12 \nБратск* – 21 февраля – Не Ширли\nОмск* – 22 февраля – ANGAR\nИркутск – 27 февраля – Soprano\nКрасноярск – 28 февраля – Чё Почём Бар\nНовосибирск – 1 марта – Bla Bla Bar\nКемерово* – 2 марта – Клуб Эфир\nЕкатеринбург** – 14 марта – Клуб Свобода\nНижний Тагил* – 15 марта – INJI\n\nВас ждёт большая программа с такими песнями, как \"Классная\", \"Адреналин\", \"Вина\", \"Чисто папа\" и новые треки. Яркое исполнение и любимый артист на расстоянии вытянутой руки. Постарались подобрать максимально удобные даты для всех, поэтому с нетерпением ждём вас!\n\nРасписание будет дополняться, следите за обновлениями! В течение 1-2 дней билеты появятся на Яндекс.Афише.\n\n* – билеты на перенесённый концерт, который должен был состояться осенью-зимой 2025 года ДЕЙСТВИТЕЛЬНЫ и не требуют обмена. ** – билеты на концерт 12 апреля 2026 года ДЕЙСТВИТЕЛЬНЫ и не требуют обмена."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Анонсируем долгожданные концерты Восемьдесят Четвёртого.\n\nБилеты в продаже – "
+    },
+    {
+     "type": "link",
+     "text": "https://84tour.ru"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nМосква – 14 февраля – Клуб Свобода (Малый зал)\nСанкт-Петербург – 15 февраля – Клуб Project\n\nЮжно-Сахалинск* – 6 февраля –  Sova \nВоронеж* – 13 февраля –  Клуб 12 \nБратск* – 21 февраля – Не Ширли\nОмск* – 22 февраля – ANGAR\nИркутск – 27 февраля – Soprano\nКрасноярск – 28 февраля – Чё Почём Бар\nНовосибирск – 1 марта – Bla Bla Bar\nКемерово* – 2 марта – Клуб Эфир\nЕкатеринбург** – 14 марта – Клуб Свобода\nНижний Тагил* – 15 марта – INJI\n\nВас ждёт большая программа с такими песнями, как \"Классная\", \"Адреналин\", \"Вина\", \"Чисто папа\" и новые треки. Яркое исполнение и любимый артист на расстоянии вытянутой руки. Постарались подобрать максимально удобные даты для всех, поэтому с нетерпением ждём вас!\n\nРасписание будет дополняться, следите за обновлениями! В течение 1-2 дней билеты появятся на Яндекс.Афише.\n\n* – билеты на перенесённый концерт, который должен был состояться осенью-зимой 2025 года ДЕЙСТВИТЕЛЬНЫ и не требуют обмена. ** – билеты на концерт 12 апреля 2026 года ДЕЙСТВИТЕЛЬНЫ и не требуют обмена."
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 37,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 10,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 5,
+      "emoji": "👍"
+     }
+    ]
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2026-02-09T10:32:34",
+   "date_unixtime": "1770622354",
+   "edited": "2026-02-09T10:46:03",
+   "edited_unixtime": "1770623163",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 265627,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Разыгрываем 10 билетов на ",
+    {
+     "type": "text_link",
+     "text": "концерт Честного",
+     "href": "https://gsnd.ru/chestnyi"
+    },
+    "!\n\nПравила:\n\n1. Подпишись на ",
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    " и канал лейбла ",
+    {
+     "type": "mention",
+     "text": "@goldensound18"
+    },
+    "\n\n2. Выложи картинку афиши тура в сторис для всех в своём профиле Telegram\n\n3. Поставь 🔥 под записью и напиши в чате ",
+    {
+     "type": "mention",
+     "text": "@str_ctr"
+    },
+    " город концерта\n\n16 февраля мы случайным образом определим 10 победителей, каждый из которых получит по 1 билету и опубликуем результаты в ",
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    "\n\nЖелаем удачи!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Разыгрываем 10 билетов на "
+    },
+    {
+     "type": "text_link",
+     "text": "концерт Честного",
+     "href": "https://gsnd.ru/chestnyi"
+    },
+    {
+     "type": "plain",
+     "text": "!\n\nПравила:\n\n1. Подпишись на "
+    },
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    {
+     "type": "plain",
+     "text": " и канал лейбла "
+    },
+    {
+     "type": "mention",
+     "text": "@goldensound18"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n2. Выложи картинку афиши тура в сторис для всех в своём профиле Telegram\n\n3. Поставь 🔥 под записью и напиши в чате "
+    },
+    {
+     "type": "mention",
+     "text": "@str_ctr"
+    },
+    {
+     "type": "plain",
+     "text": " город концерта\n\n16 февраля мы случайным образом определим 10 победителей, каждый из которых получит по 1 билету и опубликуем результаты в "
+    },
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nЖелаем удачи!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 608,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 58,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 23,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 6,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2026-02-16T15:16:54",
+   "date_unixtime": "1771244214",
+   "edited": "2026-02-16T17:59:38",
+   "edited_unixtime": "1771253978",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "text": [
+    "Результаты ",
+    {
+     "type": "text_link",
+     "text": "розыгрыша билетов на концерт Честного",
+     "href": "https://t.me/structr_public/51"
+    },
+    "\n\n",
+    {
+     "type": "mention",
+     "text": "@lelechka16"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@ksenon_1508"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@alekssseevna1"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@burito_94"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@irinaii23"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@cddfag"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@nail_petertseva"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@Aleksandra130900"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@kittymixkitty"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@Valeriaz5"
+    },
+    "\n\nПолучают по 1 билету в танцпол в своём городе. Чтобы получить приз, просим победителей связаться с нами в личных сообщениях ",
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    "\n\nP.S. 100 реакций – и делаем ещё один розыгрыш в Тиктоке"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Результаты "
+    },
+    {
+     "type": "text_link",
+     "text": "розыгрыша билетов на концерт Честного",
+     "href": "https://t.me/structr_public/51"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@lelechka16"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@ksenon_1508"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@alekssseevna1"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@burito_94"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@irinaii23"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@cddfag"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@nail_petertseva"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@Aleksandra130900"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@kittymixkitty"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@Valeriaz5"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nПолучают по 1 билету в танцпол в своём городе. Чтобы получить приз, просим победителей связаться с нами в личных сообщениях "
+    },
+    {
+     "type": "mention",
+     "text": "@structr_public"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nP.S. 100 реакций – и делаем ещё один розыгрыш в Тиктоке"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 111,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 25,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 18,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2026-02-17T22:57:26",
+   "date_unixtime": "1771358246",
+   "edited": "2026-02-17T23:06:02",
+   "edited_unixtime": "1771358762",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 264000,
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "Разгрываем ещё 5 билетов на концерт Честного в TikTok\n\nПравила очень простые:\n\n1. Выложи Тикток с афишей концерта (картинку) под этот звук ",
+    {
+     "type": "link",
+     "text": "https://vt.tiktok.com/ZS9Jw6dQaTwqf-OCDfA/"
+    },
+    " – приветствуется креатив (карусели и т.п.)\n\n2. Оставь комментарий со своим городом здесь ",
+    {
+     "type": "link",
+     "text": "https://vt.tiktok.com/ZSmD2y1TM/"
+    },
+    "\n\n25 февраля случайным образом выберем 5 победителей, каждый из которых получит по 1 билету в танцпол. Результаты будут опубликованы в этом канале. Желаем удачи!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Разгрываем ещё 5 билетов на концерт Честного в TikTok\n\nПравила очень простые:\n\n1. Выложи Тикток с афишей концерта (картинку) под этот звук "
+    },
+    {
+     "type": "link",
+     "text": "https://vt.tiktok.com/ZS9Jw6dQaTwqf-OCDfA/"
+    },
+    {
+     "type": "plain",
+     "text": " – приветствуется креатив (карусели и т.п.)\n\n2. Оставь комментарий со своим городом здесь "
+    },
+    {
+     "type": "link",
+     "text": "https://vt.tiktok.com/ZSmD2y1TM/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n25 февраля случайным образом выберем 5 победителей, каждый из которых получит по 1 билету в танцпол. Результаты будут опубликованы в этом канале. Желаем удачи!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 130,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 52,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 35,
+      "emoji": "🥰"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2026-02-19T12:58:22",
+   "date_unixtime": "1771495102",
+   "edited": "2026-02-20T12:02:48",
+   "edited_unixtime": "1771578168",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "text": [
+    "Официальное заявление по концертам артиста Восемьдесят Четвёртый.\n\nКонцертный директор артиста Андрей Бажура принял решение о приостановке сотрудничества с артистом и переносе всех ближайших концертов на неопределённый срок. Учитывая постоянные переносы и срывы концертов, мы со своей стороны не готовы далее участвовать в конфликте и, соответственно, гарантировать выполнение собственных обязательств перед зрителями. В соответствии с этим, мы приняли решение осуществить возврат денежных средства по билетам (в том числе невозвратным), приобретённым на платформе Qtickets на несостоявшиеся и все последующие концерты артиста. Для возврата денежных средств, необходимо перейти по ссылке ",
+    {
+     "type": "link",
+     "text": "qtickets.ru/refund"
+    },
+    " либо обратиться в личные сообщения канала с информацией (артист, номер заказа, город концерта, почта на которую оформлен заказ). Возвраты по указанным концертам открыты начиная с момента настоящего уведомления (если вы пробовали ранее и у вас не получилось – попробуйте снова).\n\nОтветственность за реализацию билетов на платформе Яндекс.Афиша и за часть билетов, приобретённых на Qtickets, несёт представитель концертного директора артиста (Андрея Бажуры), организатор концертов – ИП Серазетдинов Л.Г., ОГРНИП 325169000015558. Эти данные указаны на каждом билете. У нас нет доступа к возможности возврата этих билетов, но Андрей со своей стороны заверил нас, что в ближайшее время объявит о начале возвратов денежных средств по ранее полученным заявкам от зрителей. Мы не консультируем по вопросам возврата таких билетов – с этим запросом необходимо обращаться напрямую к Андрею ",
+    {
+     "type": "mention",
+     "text": "@bazhurashow"
+    },
+    "\n\nПриносим извинения за неудобства."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Официальное заявление по концертам артиста Восемьдесят Четвёртый.\n\nКонцертный директор артиста Андрей Бажура принял решение о приостановке сотрудничества с артистом и переносе всех ближайших концертов на неопределённый срок. Учитывая постоянные переносы и срывы концертов, мы со своей стороны не готовы далее участвовать в конфликте и, соответственно, гарантировать выполнение собственных обязательств перед зрителями. В соответствии с этим, мы приняли решение осуществить возврат денежных средства по билетам (в том числе невозвратным), приобретённым на платформе Qtickets на несостоявшиеся и все последующие концерты артиста. Для возврата денежных средств, необходимо перейти по ссылке "
+    },
+    {
+     "type": "link",
+     "text": "qtickets.ru/refund"
+    },
+    {
+     "type": "plain",
+     "text": " либо обратиться в личные сообщения канала с информацией (артист, номер заказа, город концерта, почта на которую оформлен заказ). Возвраты по указанным концертам открыты начиная с момента настоящего уведомления (если вы пробовали ранее и у вас не получилось – попробуйте снова).\n\nОтветственность за реализацию билетов на платформе Яндекс.Афиша и за часть билетов, приобретённых на Qtickets, несёт представитель концертного директора артиста (Андрея Бажуры), организатор концертов – ИП Серазетдинов Л.Г., ОГРНИП 325169000015558. Эти данные указаны на каждом билете. У нас нет доступа к возможности возврата этих билетов, но Андрей со своей стороны заверил нас, что в ближайшее время объявит о начале возвратов денежных средств по ранее полученным заявкам от зрителей. Мы не консультируем по вопросам возврата таких билетов – с этим запросом необходимо обращаться напрямую к Андрею "
+    },
+    {
+     "type": "mention",
+     "text": "@bazhurashow"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nПриносим извинения за неудобства."
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 54,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 12,
+      "emoji": "👏"
+     },
+     {
+      "type": "emoji",
+      "count": 10,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 10,
+      "emoji": "🔥"
+     }
+    ]
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2026-02-26T15:27:38",
+   "date_unixtime": "1772108858",
+   "edited": "2026-02-26T15:29:49",
+   "edited_unixtime": "1772108989",
+   "from": "Твои любимые концерты 🇷🇺",
+   "from_id": "channel2339746611",
+   "reply_to_message_id": 53,
+   "text": [
+    "Результаты ",
+    {
+     "type": "text_link",
+     "text": "розыгрыша билетов на концерт Честного",
+     "href": "https://t.me/structr_public/53"
+    },
+    "\n\nmozgoebka1\nyakshi777\nlubimaya_marisha\ndl.yadl\nuser22kpil8ccv\n\nПолучают по 1 билету в танцпол в своём городе. Чтобы получить приз, просим победителей связаться с нами в личных сообщениях в TikTok ",
+    {
+     "type": "mention",
+     "text": "@dmitry"
+    },
+    ".lapin735\nВсе, кто напишут вам сами — мошенники"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Результаты "
+    },
+    {
+     "type": "text_link",
+     "text": "розыгрыша билетов на концерт Честного",
+     "href": "https://t.me/structr_public/53"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nmozgoebka1\nyakshi777\nlubimaya_marisha\ndl.yadl\nuser22kpil8ccv\n\nПолучают по 1 билету в танцпол в своём городе. Чтобы получить приз, просим победителей связаться с нами в личных сообщениях в TikTok "
+    },
+    {
+     "type": "mention",
+     "text": "@dmitry"
+    },
+    {
+     "type": "plain",
+     "text": ".lapin735\nВсе, кто напишут вам сами — мошенники"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 12,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "👏"
+     }
+    ]
+  }
+ ]
+}
