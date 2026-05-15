@@ -1,0 +1,6 @@
+-r base.txt
+
+# Telegram bot / MTProto
+aiogram>=3.27,<4.0
+pyrogram>=2.0,<3.0
+TgCrypto>=1.2,<2.0

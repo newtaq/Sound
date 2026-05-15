@@ -1,0 +1,5 @@
+# Full install for one-service deployment
+-r bot.txt
+-r api.txt
+-r parsing.txt
+-r ai.txt

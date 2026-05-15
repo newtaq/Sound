@@ -1,0 +1,7 @@
+-r base.txt
+
+# Web parsing / feeds
+beautifulsoup4>=4.12,<5.0
+lxml>=5.4,<6.0
+selectolax>=0.3,<0.4
+feedparser>=6.0,<7.0

@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.runtime/
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+models/
+
+# Media
+images/
+media/
+storage/
+
+# Python build
+build/
+dist/
+*.egg-info/

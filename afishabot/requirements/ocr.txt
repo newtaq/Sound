@@ -1,0 +1,11 @@
+-r base.txt
+
+# OCR / image processing extras
+Pillow>=11.2,<12.0
+numpy>=2.2,<3.0
+opencv-python-headless>=4.11,<5.0
+rapidfuzz>=3.13,<4.0
+
+# Keep Paddle optional and isolated: heavy, platform-sensitive
+paddlepaddle>=3.0,<4.0
+paddleocr>=3.0,<4.0
